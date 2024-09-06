@@ -126,6 +126,8 @@ Tell us more:
 
 * [NGC](https://www.ngcsoftware.com/)
 
+* [North IT](https://www.northit.co.uk/) - OpenFaaS is used by our in-house vulnerability scanning and pen-tesing platform. 
+* 
 * [Northwestern Mutual](https://www.northwesternmutual.com/) - "OpenFaaS is a great platform and Alex and team are a great resource. They will work very diligently with your team to help you get the most out of OpenFaaS, and he will always be able to provide valuable insight into issues that a team might face while developing software for the cloud." Kieran Gordon
 
 * [Optiv](https://optiv.com) - Cyber Security Solutions
